@@ -11,6 +11,10 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication2", "Wind
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication3", "WindowsApplication3\WindowsApplication3.vbproj", "{6431CAF4-BDA8-4D1A-B24F-A277243B3D80}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication4", "WindowsApplication4\WindowsApplication4.vbproj", "{B1A24B40-D669-412E-847F-56009B7A34FA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication5", "WindowsApplication5\WindowsApplication5.vbproj", "{D4D540DC-8688-45CC-9E06-E9436B9B9CE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{6431CAF4-BDA8-4D1A-B24F-A277243B3D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6431CAF4-BDA8-4D1A-B24F-A277243B3D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6431CAF4-BDA8-4D1A-B24F-A277243B3D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A24B40-D669-412E-847F-56009B7A34FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A24B40-D669-412E-847F-56009B7A34FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A24B40-D669-412E-847F-56009B7A34FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A24B40-D669-412E-847F-56009B7A34FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D540DC-8688-45CC-9E06-E9436B9B9CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D540DC-8688-45CC-9E06-E9436B9B9CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D540DC-8688-45CC-9E06-E9436B9B9CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D540DC-8688-45CC-9E06-E9436B9B9CE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
